@@ -1,3 +1,5 @@
-1) 3D heat equation with 4D plot
-2) Finite volume fluid flow solver 
-3) Shallow water equation solution
+Ideas to be done:
+
+1) Lax-Wendroff for 2D Euler Equations in Conservative form (Mocz equations)
+2) Four dimensional visualization of Heat Equation
+
